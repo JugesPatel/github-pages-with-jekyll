@@ -3,7 +3,7 @@ layout: post
 title: "Why Become a Dungeon Master?"
 date: 2021-09-08
 category: DM
-tags: newbie
+tags: [newbie advice]
 ---
 
 # Why Become a Dungeon Master?
