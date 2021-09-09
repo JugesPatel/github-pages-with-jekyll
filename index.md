@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jugal Patel's Magnificent Musings"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog, have a look around and maybe learn a thing or two.
